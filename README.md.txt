@@ -1,0 +1,2 @@
+from the postman run this post request (http://localhost:3000/data) and attach with it this json -> {"message":"hello"}
+from the postman run this get request (http://localhost:3000/greeting/monder_adwan)
